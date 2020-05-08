@@ -1,0 +1,27 @@
+{
+    "think_ms": 500,
+    "use_unicode_figures": true,
+    "invert_term_color": false,
+    "max_plies_terminal": 6,
+    "max_plies_board": 3,
+    "ply_vis_delay": 80,
+    "import_chesslink_position": true,
+    "computer_player_name": "stockfish",
+    "computer_player2_name": "",
+    "human_name": "human",
+    "active_agents": {
+        "human": [
+            "chess_link",
+            "terminal",
+            "web",
+            "tk"
+        ],
+        "computer": [
+            "stockfish",
+            "lc0"
+        ]
+    },
+    "log_levels": {
+        "chess.engine": "ERROR"
+    }
+}

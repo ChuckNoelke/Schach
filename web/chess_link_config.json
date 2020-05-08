@@ -1,0 +1,7 @@
+{
+    "transport": "chess_link_usb",
+    "address": "COM3",
+    "orientation": true,
+    "btle_iface": 0,
+    "autodetect": true
+}
