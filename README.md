@@ -6,9 +6,9 @@ The extension shall utilize the new Lichess API created by Lichess.
 
 This is currently work in process. The steps following steps have to be completed:
 
-1.) Configure additional agent in Millennium software package
-2.) Connect additional agent to Lichess API
-3.) Testing complete package and procedure on starting a game on Lichess and transfering control to extension
+ - Configure additional agent in Millennium software package
+ - Connect additional agent to Lichess API
+ - Testing complete package and procedure on starting a game on Lichess and transfering control to extension
 
 ## Links
 
